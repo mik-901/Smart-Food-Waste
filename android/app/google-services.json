@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501266132037",
+    "project_id": "capstone-b4380",
+    "storage_bucket": "capstone-b4380.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501266132037:android:f677c23516f7a7ee23072c",
+        "android_client_info": {
+          "package_name": "com.example.mitush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6k3OiDyjtVx-NHn6jWwvZYGto0u9fPdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
