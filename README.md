@@ -1,4 +1,4 @@
-# mitush
+# Capstone
 
 A new Flutter project.
 
